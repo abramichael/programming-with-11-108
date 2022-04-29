@@ -1,0 +1,15 @@
+# v
+0 Ilya G
+1 Alina
+2 Adel
+3 Danis
+4 Niyaz
+5 Aidar
+# e
+2 3
+0 1
+0 5
+1 3
+4 0
+4 1
+4 5
